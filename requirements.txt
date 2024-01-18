@@ -1,0 +1,17 @@
+Django
+asgiref==3.7.2
+channels[daphne]==4.0.0
+channels-redis
+
+djangorestframework
+django-cors-headers
+
+drf-yasg
+
+
+django-storages
+requests
+
+#For postgresql
+#sudo apt-get install libpq-dev python3-dev
+psycopg2
